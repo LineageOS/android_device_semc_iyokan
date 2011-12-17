@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAOH///tE\u003d",
+        "filename": "overlay/packages/apps/Torch/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1642
+      },
+      "writtenOn": "2011-12-17T19:27:16Z",
+      "side": 1,
+      "message": "better indent?",
+      "revId": "155fbcc4c0f3164747a495a66bf726fcbdf1632f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
