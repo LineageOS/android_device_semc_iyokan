@@ -29,7 +29,7 @@ PRODUCT_COPY_FILES += \
 # application settings that are stored in resourced.
 DEVICE_PACKAGE_OVERLAYS += device/semc/iyokan/overlay
 
-PRODUCT_PACKAGES += KeyboardChanger
+PRODUCT_PACKAGES += IyokanParts
 
 # These are the hardware-specific configuration files
 PRODUCT_COPY_FILES += \
