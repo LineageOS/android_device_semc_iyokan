@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//+kY\u003d",
+        "filename": "iyokan.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 605
+      },
+      "writtenOn": "2013-03-08T12:07:31Z",
+      "side": 0,
+      "message": "dont move it !\nyou have 1 cdma phone",
+      "revId": "36e71c8f82490fd21ba51e47f1ad118587f58b91",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
